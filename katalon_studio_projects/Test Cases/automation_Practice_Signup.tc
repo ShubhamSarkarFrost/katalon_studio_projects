@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>as a User i signup to automation practice website</description>
+   <name>automation_Practice_Signup</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e087332-2b31-47ed-9107-4787b4b4c6bd</testCaseGuid>
+</TestCaseEntity>

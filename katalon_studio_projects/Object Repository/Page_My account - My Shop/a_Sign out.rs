@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign out</name>
+   <tag></tag>
+   <elementGuidId>33afd1be-68ce-4bc0-a49c-c78a3d6e1d5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div[2]/div/div/nav/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.logout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6b4e0e8a-1da7-4aee-9c8c-1e5e45d79eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logout</value>
+      <webElementGuid>111a103a-4e78-4f6d-b0c3-4a687c7c3fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.automationpractice.pl/index.php?mylogout=</value>
+      <webElementGuid>eee94785-f414-45e9-9afd-687195b38403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>9f0635a6-36b5-49bd-b4d6-d4e408a1f302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Log me out</value>
+      <webElementGuid>5202900f-190b-417a-a2f5-9f1b0b833e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Sign out
+		</value>
+      <webElementGuid>0f8d26c2-b568-4a06-b5db-259e9cb5fb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;nav&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/nav[1]/div[@class=&quot;header_user_info&quot;]/a[@class=&quot;logout&quot;]</value>
+      <webElementGuid>9aecb400-37f5-46b8-aa78-813cd8dfac22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div[2]/div/div/nav/div[2]/a</value>
+      <webElementGuid>2f68b538-e32b-494a-b6a3-96cf7d5b40f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign out')]</value>
+      <webElementGuid>d2032cd5-c662-43e0-8611-e9c26c080bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Test'])[1]/following::a[1]</value>
+      <webElementGuid>c49b0f47-b448-44f0-a852-37f82430a6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/preceding::a[1]</value>
+      <webElementGuid>225d3166-7433-4965-9b54-51a71b7b7d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign out']/parent::*</value>
+      <webElementGuid>fd3a502e-1d56-4e05-b63b-8696dcbc50d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://www.automationpractice.pl/index.php?mylogout=']</value>
+      <webElementGuid>985a5db3-d584-490a-b9cb-fdf2bee87a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>af85f43d-8957-48c2-a10a-015f1fa4fbeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.automationpractice.pl/index.php?mylogout=' and @title = 'Log me out' and (text() = '
+			Sign out
+		' or . = '
+			Sign out
+		')]</value>
+      <webElementGuid>8ed18594-b916-4ff9-860b-80e46fd89f31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
